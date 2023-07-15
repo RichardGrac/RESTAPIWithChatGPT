@@ -1,0 +1,38 @@
+[
+  {
+    "id": "86bf4f5c-8489-4c49-ac18-c97b650a458e",
+    "title": "Mike / Ricardo 1-1",
+    "summary": "Let's meet & catch up",
+    "address": "Zoom"
+  },
+  {
+    "id": "bbc86d6f-1429-4c96-bbfc-592eb0caec3b",
+    "title": "Test 1",
+    "summary": "Test Summary 1",
+    "address": "Zoom"
+  },
+  {
+    "id": "39447b12-98af-444d-b67d-10dc9de8693a",
+    "title": "Test 2",
+    "summary": "Test Summary 2",
+    "address": "Zoom"
+  },
+  {
+    "id": "1c442402-be99-4893-9ed6-6da6651aa7cf",
+    "title": "Test 3",
+    "summary": "Test Summary 3",
+    "address": "Zoom"
+  },
+  {
+    "id": "5689a796-01bf-4151-8d46-a5a55c1bef53",
+    "title": "Test 4",
+    "summary": "Test Summary 4",
+    "address": "Zoom"
+  },
+  {
+    "id": "e4f03b5b-d1df-49de-857b-cac509954384",
+    "title": "Follow-up meeting",
+    "summary": "Let's follow-up",
+    "address": "Google Meet Conference"
+  }
+]
